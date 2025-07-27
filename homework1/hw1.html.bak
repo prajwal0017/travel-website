@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>travel</title>
+ </head>
+ <body>
+  <center><h1>Travel with us </h1></center>
+  <center><a href="hw1.html">home</a>
+        <a href="destinations.html">destinations</a>
+        <a href="travelblogs.html">travel blogs</a>
+        <a href="traveltips.html">travel tips</a>
+        <a href="registration.html">registration</a>
+        <a href="login.html">login</a>
+        <a href="contact.html">contact us </a></center>
+		<hr>
+		<center><p>welcome to ultimate travel experience </p></center>
+		<ul> Popular destinations 
+			<li>NewZeland</li>
+			<li>Paris</li>
+			<li>Bali</li>
+		</ul>
+		<hr>
+		<strong><center>&copy; all rights reserved to travel with us </center></strong>
+ </body>
+</html>

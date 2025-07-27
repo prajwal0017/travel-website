@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>contact us </title>
+ </head>
+ <body>
+  <center><h1>Travel with us </h1></center>
+  <center><a href="hw1.html">home</a>
+        <a href="destinations.html">destinations</a>
+        <a href="travelblogs.html">travel blogs</a>
+        <a href="traveltips.html">travel tips</a>
+        <a href="registrations.html">registration</a>
+        
+        <a href="contact.html">contact us </a></center>
+		<hr>
+		<center><h2>company details </h2></center>
+		<center><table border='1'>
+		<tr>
+			<td>Company name</td>
+			<td>Travel with prajwal</td>
+		</tr>
+		<tr>
+			<td>address</td>
+			<td>Borivli </td>
+		</tr>
+		<tr>
+			<td>phone number</td>
+			<td>7977774524</td>
+		</tr>
+		<tr>
+			<td>email</td>
+			<td>travelwithus@hotmail.com</td>
+		</tr>
+		</table></center>
+		<center><h2>query form </h2></center>
+		<center><table>
+		<tr>
+			<td>Name</td>
+			<td><input type="text" name=""></td>
+		</tr>
+		<tr>
+			<td>Email</td>
+			<td><input type="email" name=""></td>
+		</tr>
+		<tr>
+			<td>Phone</td>
+			<td><input type="tel" name=""></td>
+		</tr>
+		<tr>
+			<td>Message</td>
+			<td><textarea name="" rows="3" cols=""></textarea></td>
+		</tr>
+		<tr>
+			<td><input type="submit"></td>
+			
+		</tr>
+		</table></center>
+		<center><h2>come find us </h2></center>
+		<center><iframe src="https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d15067.142448978211!2d72.8658353!3d19.248173!3m2!1i1024!2i768!4f13.1!2m1!1stravel%20agent%20near%20me!5e0!3m2!1sen!2sin!4v1753367363398!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+		<hr>
+		<strong><center>&copy; all rights reserved to travel with us </center></strong>
+ </body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>travel tips</title>
+ </head>
+ <body>
+  <center><h1>Travel with us </h1></center>
+  <center><a href="hw1.html">home</a>
+        <a href="destinations.html">destinations</a>
+        <a href="travelblogs.html">travel blogs</a>
+        <a href="traveltips.html">travel tips</a>
+        <a href="registration.html">registration</a>
+        <a href="login.html">login</a>
+        <a href="contact.html">contact us </a></center>
+		<hr>
+		<ul>List of travel tips
+			<li>pack light</li>
+			<li>stay hydrated</li>
+			<li>keep your documents safe </li>
+		</ul>
+		<center><table>
+		<tr>
+			<td>Name</td>
+			<td><input type="text" name=""></td>
+		</tr>
+		<tr>
+			<td>Email</td>
+			<td><input type="email" name=""></td>
+		</tr>
+		<tr>
+			<td>Message</td>
+			<td><textarea name="" rows="5" cols=""></textarea></td>
+		</tr>
+		<tr>
+			<td><input type="submit"></td>
+			<td><input type="reset"></td>
+		</tr>
+		</table></center>
+		<hr>
+		<strong><center>&copy; all rights reserved to travel with us </center></strong>
+ </body>
+</html>

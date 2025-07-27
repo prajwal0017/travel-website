@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Registration</title>
+ </head>
+ <body>
+  <center><h1>Travel with us </h1></center>
+  <center><a href="hw1.html">home</a>
+        <a href="destinations.html">destinations</a>
+        <a href="travelblogs.html">travel blogs</a>
+        <a href="traveltips.html">travel tips</a>
+        <a href="registration.html">registration</a>
+        <a href="">login</a>
+        <a href="">contact us </a></center>
+		<hr>
+		<form method="post" action="login.html">
+			<center><table>
+		<tr>
+			<td>Name</td>
+			<td><input type="text" name=""></td>
+		</tr>
+		<tr>
+			<td>Email</td>
+			<td><input type="email" name=""></td>
+		</tr>
+		<tr>
+			<td>Phone no</td>
+			<td><input type="tel" name=""></td>
+		</tr>
+		<tr>
+			<td>Address</td>
+			<td><textarea name="" rows="2" cols=""></textarea></td>
+		</tr>
+		<tr>
+			<td>Username</td>
+			<td><input type="text" name=""></td>
+		</tr>
+		<tr>
+			<td>Password</td>
+			<td><input type="password" name=""></td>
+		</tr>
+		<tr>
+			<td><input type="submit"></td>
+			<td><input type="reset"></td>
+		</tr>
+		</table></center>
+		</form>
+		<hr>
+		<strong><center>&copy; all rights reserved to travel with us </center></strong>
+ </body>
+</html>

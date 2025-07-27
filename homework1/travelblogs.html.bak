@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>travel blog</title>
+ </head>
+ <body>
+  <center><h1>Travel with us </h1></center>
+  <center><a href="hw1.html">home</a>
+        <a href="destinations.html">destinations</a>
+        <a href="travelblogs.html">travel blogs</a>
+        <a href="traveltips.html">travel tips</a>
+        <a href="registration.html">registration</a>
+        <a href="login.html">login</a>
+        <a href="contact.html">contact us </a></center>
+		<hr>
+		<center><h2>my trip to japan</h2>
+		<center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0uN0YsMnstVJqQNPw5vTqG9YVCUDHgny7gg&s" width="" height="" border="0" alt=""></center>
+		</center>
+		<center><p>On my trip to Japan, I discovered how effortlessly tradition and modernity blend together. One moment I was walking through serene Shinto shrines surrounded by ancient trees, and the next I was sipping matcha in a minimalist café overlooking neon-lit skyscrapers. I found hidden alleys with tiny ramen shops where locals greeted me warmly, and I learned that vending machines really do sell everything. But what surprised me most was how small, everyday gestures — a bow, a simple ‘arigatou gozaimasu’ — could make me feel so welcome in a culture so different from my own.”</p></center>
+		<center><blockquote>"Travel expands the mind" </blockquote></center>
+		<center><iframe width="100%" height="auto" src="https://www.youtube.com/embed/CxuiFNYnEr4?si=yhZZUTHX3lC0_xuF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+		
+		<hr>
+		<strong><center>&copy; all rights reserved to travel with us </center></strong>
+ </body>
+</html>
+
